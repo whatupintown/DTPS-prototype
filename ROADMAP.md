@@ -13,10 +13,12 @@ Ticket reservation takes place by sending ticket price in $ETH + execution fee t
 
 ## 2. DTPS alpha
 Integrates all sorts of features to make the prototype usable in real life. 
+
 Tests.
 
 ## 3. DTPS beta
 Integrate and validate contract security.
+
 To be tested with an event in the crypto dev scene.
 
 ## 3. Python API to access the contract
