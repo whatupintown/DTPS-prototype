@@ -2,7 +2,7 @@
 Solidity smart contract that can demo the simplest ticket pre-sale:
 - Defines one ticket with a dedicated price in $ETH.
 - Defines the funding goal (how many tickets need to be sold to make the event happen).
-- Defines a deadline for the fund raising.
+- Defines a deadline for the ticket pre-sale.
 - Defines a recipient wallet address.
 
 Ticket reservation takes place by sending ticket price in $ETH + execution fee to the contract. At the time of the deadline or later the contract can be executed to do one of the following two things: 
@@ -12,6 +12,11 @@ Ticket reservation takes place by sending ticket price in $ETH + execution fee t
 2) If the funding goal has not been reached all wallet addresses that have reserved a ticket receive their funds back.
 
 ## 2. DTPS alpha
+Integrates all sorts of features to make the prototype usable in real life. 
+Tests.
+
+## 3. DTPS beta
+Integrate and validate contract security.
 To be tested with an event in the crypto dev scene.
 
 ## 3. Python API to access the contract
