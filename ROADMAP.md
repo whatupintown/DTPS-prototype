@@ -20,11 +20,11 @@ Contract security and tests.
 ## 4. Python API to access the contract
 TBD...
 
-## 5. Integration of Shapeshift and/or Changelly to support payments with other cryptocurrencies
-TBD...
+## 5. Integration of ShapeShift and/or Changelly
+Support for payments with other cryptocurrencies.
 
-## 6. Python DTPS generator (package) to configure, generate and deploy DTPS contracts
-TBD...
+## 6. Python DTPS generator
+Python package to configure, generate and deploy DTPS contracts.
 
 ## 7. Integration of a fiat payment solution
 TBD...
@@ -32,5 +32,5 @@ TBD...
 ## 8. Javascript API to access the contract
 TBD...
 
-## 9. Javascript DTPS generator (package) to configure, generate and deploy DTPS contract
-TBD...
+## 9. Javascript DTPS generator
+JS package to configure, generate and deploy DTPS contract.
