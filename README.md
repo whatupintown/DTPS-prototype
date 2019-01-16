@@ -1,2 +1,2 @@
 # DTPS prototype  
-Prototype for a decentralized ticket pre-sale (DTPS) smart contract based for the Ethereum blockchain.
+Prototype for a decentralized ticket pre-sale (DTPS) smart contract for the Ethereum blockchain.
